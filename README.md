@@ -1,7 +1,7 @@
 ## Keziah Quarshie - Devops Engineer
 
 I am devops engineer with an interest in working with solving everyday problems in eductaion. I have a varied background with experience with a variety of key devops tools.
-I am a Makers Software Engineering and Devops graduate who is 2x AWS certified, interested in all things cloud and automation.
+I am a Makers Software Engineering and Devops graduate who is interested in all things cloud and automation.
 
 ## Projects
 
