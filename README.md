@@ -5,48 +5,43 @@ I am a Makers Software Engineering and Devops graduate who is interested in all 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                    | Description                                                      | Tech/tools                 |
+| ------------------------| -----------------------------------------------------------------| -------------------------- |
+| **Makers BNB**          | A webapp for booking homes for guests.                           | Python, Pytest, PSQL, HTML.|
+| **Reliability Project** | A site reliability project to maintain 99.99% uptime for server. | Python, Docker, AWS        |
+| **Pytest Project**      | A collection of tests for python apps.                           | Python, Pytest             |
 
 ## Work Experience
 
 **Streatham and Clapham Prep School** (01-01-2024 to present)  
 _Head of Computing and Digital Lead_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Led the development and implementation of a comprehensive computing curriculum, covering programming, algorithms, data structures, and problem-solving.
+- Increased student engagement and improved test scores through innovative teaching methods and engaging learning resources using tools like Scratch, Python, Code.org, and Raspberry Pi.
+- Collaborated with teachers and coordinators to maintain quality and consistency in computing education.
 
-**Tetsuuma Motors** (start-date to end-date)  
+**Makers** (Sept 2023 to Jan 2024)  
 _Junior Devops Engineer_
 
-- Any experience relevent to software development
+- Collaborated with team members to deploy an existing application using various AWS services, optimizing performance and reliability while reducing infrastructure costs.
+- Emphasized the importance of observability in system design and led efforts to enhance system observability through the implementation of monitoring and logging solutions, resulting in improved incident response times.
+- Orchestrated the deployment of a static website consuming an AWS Lambda function, demonstrating proficiency in serverless architecture, and enhancing scalability.
+- 
+## TECH STACK
 
-## Skills
+-Infrastructure as Code: Proficient in Terraform and AWS CloudFormation, able to define and provision infrastructure for scalable and efficient systems.
+-Cloud Services: Experienced with AWS and S3, skilled in leveraging cloud technologies for optimized performance and reliability.
+-CICD: Skilled in implementing and maintaining CI/CD pipelines using CodePipeline, CodeDeploy, and Jenkins to enhance deployment processes and code quality.
+-Programming and Scripting: Proficient in Python and Bash scripting, capable of automating tasks and optimizing workflows.
+-Containerization and Orchestration: Experienced in Docker and Kubernetes, focusing on streamlining deployment and scalability.
+-Version Control: Proficient in Git and GitHub, ensuring version control and collaboration within development teams.
+-Communication: Capable of effective communication both internally within teams and externally with stakeholders to facilitate collaboration and achieve project goals.
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Sept 2023 to Jan 2024)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -55,11 +50,16 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Coventry University (Sept 2013 to April 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- English and Journalism
+- 2:1
+- Advanced Counselling
+
+#### London South Bank (Sept 2017 to April 2018)
+
+- Post Graduate Cert in Edgucation(PGCE)
+- Pass
 
 #### Any other qualifications
 
